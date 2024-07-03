@@ -1,9 +1,10 @@
 {
     "compilerOptions": {
-      "module": "esnext",
-      "target": "ES2022",
+      "module": "es2015",
+      "target": "es2017",
+      "moduleResolution": "node",
       "declaration": true,
-      "outDir": "./dist"
+      "outDir": "./dist",
     },
     "include": [
       "src/**/*"

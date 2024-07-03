@@ -1,1 +1,1 @@
-export { hello, goodbye } from './hello';
+export { CamButton } from "./components/cam-button";
